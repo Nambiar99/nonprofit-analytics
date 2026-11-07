@@ -9,6 +9,10 @@ from dash import Dash, html, page_container
 import dash_bootstrap_components as dbc
 import dash
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
 from components.navbar import create_sidebar
 from components.titlebar import create_title_bar
 from components.callbacks import register_app_callbacks
@@ -36,4 +40,5 @@ app.layout = dbc.Container([
 ], fluid=True, className="page-container")
 
 if __name__ == "__main__":
-	app.run(debug=True, port=8050)
+	port = os.getenv("PORT")
+	app.run(host="0.0.0.0", debug=False, port=port)

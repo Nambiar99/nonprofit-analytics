@@ -24,13 +24,9 @@ app = Dash(
 	suppress_callback_exceptions=True
 )
 
-register_app_callbacks(app)
-# app.title = "Donation Dashboard"
+server = app.server
 
-# app.layout = html.Div([
-# 	create_sidebar(),
-# 	dbc.Container(page_container, fluid=True)
-# ], className="sidebar-content")
+register_app_callbacks(app)
 
 app.layout = dbc.Container([
 	dbc.Row([create_title_bar()]),

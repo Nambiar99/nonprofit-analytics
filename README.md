@@ -4,6 +4,8 @@ An interactive business intelligence dashboard built with **Python**, **Dash**, 
 
 The project recreates a real-world non-profit analytics use case using entirely synthetic data, providing an interactive view of fundraising performance across countries, donation channels, donor segments, and campaigns.
 
+Live Dashboard: [Global Donation Dashboard](https://nonprofit-analytics-276745421099.europe-west1.run.app/)
+
 ## Dashboard Overview
 The application consists of three analytical pages:
 

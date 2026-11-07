@@ -1,0 +1,203 @@
+:root{
+	--primary-color: rgb(230, 230, 230);
+	--primary-text-color: white;
+}
+
+/* Title Bar */
+.titlebar-title{
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 60%;
+	padding-bottom: 10px;
+	font: arial;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+}
+.titlebar-para{
+	padding-left: 15px;
+	font: arial;
+	color: white;
+}
+.titlebar-container{
+	background-color: rgb(30, 28, 28);
+	top: 0;
+	left: 0;
+	position: fixed;
+	z-index: 500;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 10px;
+}
+
+/* Links */
+.sidebar-options{
+	color: white;
+	height: 80%;
+}
+.sidebar-options.active{
+	color: black !important;
+	background-color: white !important;
+	border-radius: 15px;
+}
+.sidebar-options:hover{
+	color: white !important;
+}
+.sidebar-options.active:hover{
+	color: black !important;
+}
+
+/* Metric Cards*/
+.card-title{
+	color:#b0b0b0;
+	font-size:small;
+	background: transparent;
+}
+.card-value{
+	font-size:large;
+	background: transparent;
+	color: white;
+}
+.metric-card{
+	background: linear-gradient(45deg, rgb(30, 28, 28), rgb(48, 48, 48));
+	border-radius: 15px;
+	width: 15vw;
+}
+.card-container{
+	padding-bottom: 30px;
+	background: transparent;
+	display:flex;
+	flex-direction: row;
+	gap: 15px;
+
+}
+
+
+
+.comp-main{
+	color:rgb(33, 34, 34);
+	font: arial;
+	background:transparent;
+	width: 150px;
+
+}
+.comp-label{
+	color: white;
+	font: arial;
+	background: transparent;
+	width: 150px;
+}
+
+/* Page Title, Description and Container */
+.page-title{
+	padding-top: 30px;
+	padding-bottom: 10px;
+	font-weight: 100;
+	font: arial;
+	font-size: 30px;	
+	color: var(--primary-text-color);
+}
+.page-description{
+	padding-bottom: 15px;
+	padding-left: 15px;
+	font: arial;
+	color: var(--primary-text-color);
+}
+.page-container{
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right:50px;
+	bottom: 0;
+	background: linear-gradient(to right, #303030, #4f4f4f);
+}
+
+.big-figure-container{
+	background: linear-gradient(45deg, rgb(30, 28, 28), rgb(48, 48, 48));
+	padding-bottom: 50px;
+	border-radius: 15px;
+	width: 60%;
+}
+.big-figure-container-2{
+	background: linear-gradient(45deg, rgb(30, 28, 28), rgb(48, 48, 48));
+	padding-bottom: 50px;
+	border-radius: 15px;
+	width: 40%;
+}
+.small-figure-container{
+	background: linear-gradient(45deg, rgb(30, 28, 28), rgb(48, 48, 48));
+	padding-bottom: 50px;
+	border-radius: 15px;
+	width: 40%;
+}
+.small-figure-container-2{
+	background: linear-gradient(45deg, rgb(30, 28, 28), rgb(48, 48, 48));
+	padding-bottom: 50px;
+	padding-left: 10px;
+	border-radius: 15px;
+	width: 33%;
+}
+
+.page-inputs{
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+	gap: 15px;
+	background: transparent;
+	padding-bottom: 15px;
+}
+.revenue-first-row{
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+	background: transparent;
+	gap: 20px;
+	height: 400px;
+}
+.revenue-second-row{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+	background: transparent;
+	gap: 20px;
+	height: 400px;
+}
+
+.donor-first-row{
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+	background: transparent;
+	gap: 20px;
+	height: 400px;
+}
+.donor-second-row{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+	background: transparent;
+	gap: 20px;
+	height: 400px;
+}
+
+.campaigns-first-row{
+	justify-content: center;
+	display: flex;
+	flex-direction: row;
+	background: transparent;
+	gap: 20px;
+	height: 400px;
+}
+.campaigns-second-row{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: transparent;
+	width: 100%;
+	gap: 20px;
+	height: 400px;
+}

@@ -1,0 +1,21 @@
+campaign_id,campaign_name,category,start_date,end_date,actual_raised_usd,fundraising_goal_usd,achievement_percentage
+C001,Clean Water Initiative,Water & Sanitation,2025-07-03,2025-12-31,65270.15,81539.25,80.05
+C002,Education for All,Education,2025-08-26,2025-12-31,63420.89,93986.19,67.48
+C003,Emergency Food Relief,Food Security,2025-02-01,2025-10-07,64019.71,76261.26,83.95
+C004,Global Health Access,Healthcare,2023-09-06,2024-04-11,68754.55,79531.59,86.45
+C005,Children's Future Fund,Education,2025-05-18,2025-10-25,73745.13,71873.27,102.6
+C006,Disaster Recovery Program,Disaster Relief,2023-01-27,2023-08-18,72075.31,72464.28,99.46
+C007,Women Empowerment Project,Community Development,2024-01-25,2024-10-11,72404.35,56639.58,127.83
+C008,Rural Development Initiative,Community Development,2025-06-12,2025-12-01,65671.48,53970.58,121.68
+C009,Climate Action Fund,Environment,2023-06-20,2023-12-08,67929.62,82381.78,82.46
+C010,Medical Aid Program,Healthcare,2025-05-19,2025-10-23,65493.9,90304.31,72.53
+C011,Refugee Support Campaign,Humanitarian Aid,2025-03-05,2025-12-25,67281.7,79653.0,84.47
+C012,Digital Education Access,Education,2024-06-26,2025-05-03,65952.84,65969.38,99.97
+C013,Hunger-Free Communities,Food Security,2024-11-28,2025-11-13,69954.35,76397.38,91.57
+C014,Community Housing Project,Community Development,2023-02-16,2023-06-17,70626.89,80239.61,88.02
+C015,Child Nutrition Program,Healthcare,2024-01-18,2024-06-08,64696.65,51941.45,124.56
+C016,Ocean Conservation Fund,Environment,2025-06-11,2025-12-31,69409.6,68006.85,102.06
+C017,Renewable Energy Access,Environment,2025-08-02,2025-12-31,67631.18,77691.01,87.05
+C018,Mental Health Awareness,Healthcare,2024-11-01,2025-04-17,68027.28,54574.55,124.65
+C019,Wildlife Protection Fund,Environment,2023-02-24,2023-11-15,70280.88,64043.38,109.74
+C020,Global Emergency Response,Disaster Relief,2025-07-20,2025-12-31,68930.11,70890.04,97.24

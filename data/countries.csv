@@ -1,0 +1,41 @@
+country,country_code,continent,currency,exchange_rate
+United States,US,North America,USD,1.0
+Canada,CA,North America,CAD,1.36
+Mexico,MX,North America,MXN,17.1
+United Kingdom,GB,Europe,GBP,0.79
+Germany,DE,Europe,EUR,0.92
+France,FR,Europe,EUR,0.92
+Italy,IT,Europe,EUR,0.92
+Spain,ES,Europe,EUR,0.92
+Netherlands,NL,Europe,EUR,0.92
+Switzerland,CH,Europe,CHF,0.88
+Sweden,SE,Europe,SEK,10.5
+Norway,NO,Europe,NOK,10.8
+Denmark,DK,Europe,DKK,6.9
+Poland,PL,Europe,PLN,4.0
+Ireland,IE,Europe,EUR,0.92
+Portugal,PT,Europe,EUR,0.92
+India,IN,Asia,INR,84.0
+Japan,JP,Asia,JPY,150.0
+China,CN,Asia,CNY,7.2
+Singapore,SG,Asia,SGD,1.35
+South Korea,KR,Asia,KRW,1380.0
+Australia,AU,Oceania,AUD,1.55
+New Zealand,NZ,Oceania,NZD,1.7
+Brazil,BR,South America,BRL,5.5
+Argentina,AR,South America,ARS,1000.0
+Chile,CL,South America,CLP,950.0
+Colombia,CO,South America,COP,4100.0
+South Africa,ZA,Africa,ZAR,18.0
+Nigeria,NG,Africa,NGN,1600.0
+Kenya,KE,Africa,KES,130.0
+Egypt,EG,Africa,EGP,50.0
+Ghana,GH,Africa,GHS,15.0
+Morocco,MA,Africa,MAD,10.0
+United Arab Emirates,AE,Asia,AED,3.67
+Saudi Arabia,SA,Asia,SAR,3.75
+Turkey,TR,Asia,TRY,35.0
+Thailand,TH,Asia,THB,35.0
+Malaysia,MY,Asia,MYR,4.45
+Philippines,PH,Asia,PHP,56.0
+Indonesia,ID,Asia,IDR,15800.0

@@ -98,7 +98,7 @@ All monetary values are normalized to USD for consistent financial aggregation. 
 ## Running the Application Locally
 ### Clone the repository
 ```bash
-git clone
+git clone https://github.com/Nambiar99/nonprofit-analytics
 cd nonprofit-analytics
 ```
 ### Create a virtual environment
